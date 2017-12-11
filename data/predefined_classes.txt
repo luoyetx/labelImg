@@ -1,5 +1,3 @@
-dog
-person
-cat
-tv
-car
+down
+up
+occ
